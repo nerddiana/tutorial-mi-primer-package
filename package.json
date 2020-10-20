@@ -1,5 +1,5 @@
 {
-    "name": "@nerddiana/tutotial-mi-primer-package",
+    "name": "@nerddiana/tutorial-mi-primer-package",
     "version": "1.0.0",
     "description": "Módulo de operaciones matemáticas",
     "main": "index.js",
