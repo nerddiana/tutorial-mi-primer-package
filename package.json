@@ -5,7 +5,7 @@
     "main": "index.js",
     "documents": {
       "example": "example"
-    }
+    },
     "keywords": ["math", "example", "package"],
     "author": "Diana Nerd <diana@diananerd.com>",
     "license": "MIT",
